@@ -1,2 +1,2 @@
 # Repo_DataScientest
-repositarie pour formation github
+repositorie pour formation github
